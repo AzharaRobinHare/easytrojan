@@ -1,14 +1,12 @@
 ![language](https://img.shields.io/badge/language-Shell_&_Go-brightgreen.svg)
-![release](https://img.shields.io/badge/release-v2.0_20221212-blue.svg)
-# EasyTrojan #
+![release](https://img.shields.io/badge/release-v3.0_20231107-blue.svg)
+# EasyTrojan v3.0 #
 
 #### 世界上最简单的Trojan部署脚本，仅需一行命令即可搭建一台代理服务器 ####
 
 - 该项目会自动提供trojan服务所需的免费域名与证书，无需购买、解析等繁琐操作
 
 - 支持RHEL 7、8、9 (CentOS、RedHat、AlmaLinux、RockyLinux)、Debian 9、10、11、12、Ubuntu 16、18、20、22
-
-- 技术原理不做解释，初衷只为解决个人用户与主机商家被阻断连接的问题，降低大量IP被阻断造成的各种后续影响
 
 - 该项目仅限研究用途，用户应根据所在管辖区的当地法律评估自己的法规遵从义务
 
@@ -146,6 +144,6 @@ ALPN: h2/http1.1
 ---
 
 #### 鸣谢项目 ####
-[EasyTrojan](https://github.com/eastmaple/easytrojan)
+[EasyTrojan](https://github.com/eastmaple/easytrojan) </br>
 [CaddyServer](https://github.com/caddyserver/caddy) </br>
 [CaddyTrojan](https://github.com/imgk/caddy-trojan)
